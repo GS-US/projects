@@ -6,6 +6,8 @@
 * **Location**: Colorado
 * **Skills/Interests**: Likes Frontend and UX/UI Graphic/Web design most, but can do full stack and I know my way around figuring new stuff out
 
+***
+
 ### Worms
 * **Github Username**: goldencurrant
 * **More Info**: Colorado Facilitator
